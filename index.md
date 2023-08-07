@@ -1,9 +1,9 @@
-# Page Title
+# Juans Journey
 
-A short introduction for the top of your main page
+I am going to learn how to make my own website
 
 
-More content you want on your page
+I also love video games
 
 
 
